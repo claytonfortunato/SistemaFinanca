@@ -28,7 +28,7 @@ function App() {
 
           {/* Área de inserção */}
 
-          <TableArea />
+          <TableArea list={list} />
         </C.Body>
       </C.Container>
     </div>
